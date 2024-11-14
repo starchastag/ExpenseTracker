@@ -3,7 +3,7 @@
 Check out the [demo](https://incometrackers.netlify.app/) but please be considerate and don't break it for others.
 
 
-[Home](doc/home.jpg)
+![Home](doc/home.jpg)
 
 ![Delete expense](doc/delete-expense.gif)
 
@@ -44,7 +44,7 @@ npm create vite@latest
 ### Head
 
 Header Of Expense Tracker .
-![expense](doc/head.jpg)
+![expense](doc/Head.jpg)
 
 ### Adding Expenses
 
